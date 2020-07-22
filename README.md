@@ -1,14 +1,13 @@
 Ghostbuiusters Password Generators
--  
-  
-**ghostbusters.php**
+-
+- **ghostbusters.php**
 Generates Passwords for MSX, C64, AppleII, PC-jr, Atari XE/LE.  
 
-**ghostbustersZX.HTML**
-Generates Passwords for ZX-Spectrum
+- **ghostbustersZX.html**
+Generates Passwords for ZX-Spectrum (Fixed name)
 
-**ghostbustersCPC.HTML**
-Generates Passwords for Amstrad CPC
+- **ghostbustersCPC.html**
+Generates Passwords for Amstrad CPC (Fixed name)
 
 **Note**:
-Feel free to use files for your own project, provided you mention my name as original coder.
+Feel free to use files for your own project, provided you mention my name (Lars The 18Th) as original coder.

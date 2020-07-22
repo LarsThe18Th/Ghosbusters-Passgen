@@ -1,5 +1,6 @@
 Ghostbuiusters Password Generators
--    
+-  
+  
 **ghostbusters.php**
 Generates Passwords for MSX, C64, AppleII, PC-jr, Atari XE/LE.  
 

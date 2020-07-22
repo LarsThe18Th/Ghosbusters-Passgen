@@ -10,7 +10,7 @@ Generates Passwords for ZX-Spectrum (Fixed name)
 Generates Passwords for Amstrad CPC (Fixed name)
 
 **Note**:
-Feel free to use files for your own project, provided you mention my name (Lars The 18Th) as original coder.  
+Feel free to use this code for your own project, provided you mention my name (Lars The 18Th) as original coder.  
   
 
  *Use name SMIT,TREMOR for debug mode.

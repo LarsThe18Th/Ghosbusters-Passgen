@@ -1,7 +1,7 @@
 Ghostbusters Password Generators
 -
 - **ghostbusters.php**
-Generates Passwords for MSX, C64, AppleII, PC-jr, Atari XE/LE.* _coming soon_
+Generates Passwords for MSX, C64, AppleII, PC-jr, Atari XE/LE.* **coming soon**
 
 - **ghostbustersZX.html**
 Generates Passwords for ZX-Spectrum (Fixed name)

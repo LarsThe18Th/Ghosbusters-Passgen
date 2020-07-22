@@ -13,4 +13,4 @@ Generates Passwords for Amstrad CPC (Fixed name)
 Feel free to use files for your own project, provided you mention my name (Lars The 18Th) as original coder.  
   
 
-* use the name SMIT,TREMOR for debug mode. Now all possible passwords are visible.
+ * use the name SMIT,TREMOR for debug mode. Now all possible passwords are visible.

@@ -13,4 +13,6 @@ Generates Passwords for Amstrad CPC (Fixed name)
 Feel free to use this code for your own project, provided you mention my name (Lars The 18Th) as original coder.  
   
 
- *Use name SMIT,TREMOR for debug mode.
+ *Use name SMIT,TREMOR for debug mode.  
+   
+ [Another version of the ZX Ghostbusters PassGen written in C# by 'Martijn'] (https://dotnetfiddle.net/xhDj1M)

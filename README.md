@@ -15,4 +15,4 @@ Feel free to use this code for your own project, provided you mention my name (L
   *Use name SMIT,TREMOR for debug mode.  
     
  **Links**  
- [Another version of the ZX Ghostbusters PassGen written in C# by 'Martijn'] (https://dotnetfiddle.net/xhDj1M)
+ [Another version of the ZX Ghostbusters PassGen written in C# by 'Martijn'](https://dotnetfiddle.net/xhDj1M)

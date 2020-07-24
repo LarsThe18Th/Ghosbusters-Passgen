@@ -12,6 +12,6 @@ Feel free to use/change this code for your own project, provided you mention my 
   
     
  **Links**:  
- [ZX-spectrum version of the Password generator, written in C# by 'Martijn'](https://dotnetfiddle.net/xhDj1M)
+- [C64 / MSX version of the Ghostbusters Password Generator, written in Python by 'John Scarfone'](https://github.com/lagomorph/gbaccount)
+- [ZX-spectrum version of the Password generator, written in C# by 'Martijn'](https://dotnetfiddle.net/xhDj1M)
  
- [C64 / MSX version of the Ghostbusters Password Generator, written in Python by 'John Scarfone'](https://github.com/lagomorph/gbaccount)

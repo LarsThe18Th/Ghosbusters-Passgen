@@ -1,7 +1,7 @@
 Ghostbusters Password Generators
 -
 
-**Note**:
+**Note**:  
 All code in this repository may be used, modified and/or shared in own non-commercial projects, provided you mention my name (Lars The 18Th) as original coder.  
 
 - **ghostbustersC64-MSX.html**

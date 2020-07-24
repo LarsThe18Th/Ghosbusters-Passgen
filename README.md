@@ -1,6 +1,11 @@
 Ghostbusters Password Generators
 -
 
+**Note**:
+All code in this repository may be used or modified in your own projects, provided you mention my name (Lars The 18Th) as original coder.  
+
+
+
 - **ghostbustersC64-MSX.html**
 Generates Passwords for MSX, C64, AppleII, PC-jr and Atari XE/LE (Fixed name)
 
@@ -10,10 +15,8 @@ Generates Passwords for ZX-Spectrum (Fixed name)
 - **ghostbustersCPC.html**
 Generates Passwords for Amstrad CPC (Fixed name)
 
-**Note**:
-Feel free to use/change this code for your own project, provided you mention my name (Lars The 18Th) as original coder.  
-  
-    
+
+
  **Links**:  
  - [C64 / MSX version of the Ghostbusters Password Generator, written in Python by 'John Scarfone'](https://github.com/lagomorph/gbaccount)
 

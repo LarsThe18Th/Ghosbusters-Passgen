@@ -17,7 +17,7 @@ Generates Passwords for Amstrad CPC (Fixed name)
 
 
  **Links**:  
- - [C64 / MSX version of the Ghostbusters Password Generator, written in Python by 'John Scarfone'](https://github.com/lagomorph/gbaccount)
+ - [C64 / MSX Ghostbusters Password Generator, written in Python by 'John Scarfone'](https://github.com/lagomorph/gbaccount)
 
  - [Play Ghostbuster MSX version Online](https://www.file-hunter.com/MSX/index.php?id=ghostbusters) Thanks TFH ;)
 

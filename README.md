@@ -1,6 +1,9 @@
 Ghostbusters Password Generators
 -
 
+- **ghostbustersC64-MSX.html**
+Generates Passwords for MSX, C64, AppleII, PC-jr and Atari XE/LE (Fixed name)
+
 - **ghostbustersZX.html**
 Generates Passwords for ZX-Spectrum (Fixed name)
 
@@ -12,6 +15,8 @@ Feel free to use/change this code for your own project, provided you mention my 
   
     
  **Links**:  
-- [C64 / MSX version of the Ghostbusters Password Generator, written in Python by 'John Scarfone'](https://github.com/lagomorph/gbaccount)
-- [ZX-spectrum version of the Password generator, written in C# by 'Martijn'](https://dotnetfiddle.net/xhDj1M)
- 
+ - [C64 / MSX version of the Ghostbusters Password Generator, written in Python by 'John Scarfone'](https://github.com/lagomorph/gbaccount)
+
+ - [Play Ghostbuster MSX version Online](https://www.file-hunter.com/MSX/index.php?id=ghostbusters) Thanks TFH ;)
+
+ - [Play Ghostbuster C64 version Online](https://www.vizzed.com/emulators/online/retroarch/1.8.9/index.php?system=c64&core=vice_x64&file=ghostbusters.prg&playcode=4&bios=&libname=c64&corename=&touchoverlay=&videodriver=gl&audiodriver=rwebpad&inputdriver=rwebinput&scale=3&joypaddriver=&audioresampler=&cameradriver=&menudriver=&videocontextdriver=)

@@ -3,7 +3,7 @@ Ghostbusters Password Generators
 
 **Note**:  
 All code in this repository may be used, modified and/or shared in own non-commercial projects,  
-provided you mention my name (Lars The 18Th) as original coder.  
+provided you mention (Lars The 18Th) as original coder.  
 
 - **ghostbustersC64-MSX.html**
 Generates Passwords for MSX, C64, AppleII, PC-jr and Atari XE/LE (Fixed name)

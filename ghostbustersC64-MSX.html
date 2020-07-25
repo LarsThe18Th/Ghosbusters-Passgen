@@ -13,8 +13,8 @@
 		algo = new Array(0, 1, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0);
 
 		temp = " $" + document.getElementById("mon1").value + 
-			   String(document.getElementById("mon2").value).substring(0,1)  + "." + 
-			   String(document.getElementById("mon2").value).substring(String(document.getElementById("mon2").value).length, String(document.getElementById("mon2").value).length - 1) + "00-";
+		       String(document.getElementById("mon2").value).substring(0,1)  + "." + 
+		       String(document.getElementById("mon2").value).substring(String(document.getElementById("mon2").value).length, String(document.getElementById("mon2").value).length - 1) + "00-";
 
 		temp = temp.replace("$00." , "$");
 		temp = temp.replace("$0" , "$");
@@ -37,8 +37,8 @@
 		pad = "00000000";
 
 		collect = (pad + (parseInt("0x"+document.getElementById("mon1").value)).toString(2)).slice(-pad.length) + 
-				  (pad + (com.toString(2))).slice(-pad.length) +
-				  (pad + (parseInt("0x"+document.getElementById("mon2").value)).toString(2)).slice(-pad.length)
+			  (pad + (com.toString(2))).slice(-pad.length) +
+			  (pad + (parseInt("0x"+document.getElementById("mon2").value)).toString(2)).slice(-pad.length)
 
 
 		for (i=6; i<=24; i=i+6) {
